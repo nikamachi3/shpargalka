@@ -1,0 +1,31 @@
+header, .body, footer{
+    width: 980px;
+    border: solid 1px blue;
+    margin: 5px auto;
+}
+
+header{
+    height: 100px;
+}
+
+.body{
+    height: 500px;
+    display: flex;
+}
+
+footer{
+    height: 70px;
+}
+
+nav{
+    width: 200px;
+    height: 500px;
+    border-right: 1px solid black;
+}
+
+article {
+    width: 780px;
+    height: 500px;
+    border: solid blue 1px;
+}
+

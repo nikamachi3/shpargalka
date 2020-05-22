@@ -1,0 +1,12 @@
+.body{
+    height: 400px;
+    width: 400px;
+    border: solid 3px red;
+    margin: 5px auto;
+    display: flex;
+}
+nav{
+    height: 400px;
+    width: 200px;
+    border-right: solid 3px red;
+}

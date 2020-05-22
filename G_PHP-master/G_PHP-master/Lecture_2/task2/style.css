@@ -1,0 +1,17 @@
+header, .body, footer{
+    width: 980px;
+    border: solid 1px blue;
+    margin: 5px auto;
+}
+
+header{
+    height: 100px;
+}
+
+.body{
+    height: 500px;
+}
+
+footer{
+    height: 70px;
+}
